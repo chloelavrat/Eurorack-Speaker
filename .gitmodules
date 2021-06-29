@@ -1,0 +1,3 @@
+[submodule "docs/EuroClack_Speaker"]
+	path = docs/EuroClack_Speaker
+	url = https://github.com/clacktronics/EuroClack_Speaker
