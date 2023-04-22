@@ -12,7 +12,7 @@ Whatever your reasons may be, the Clacktronics Eurorack Speaker Module offers a 
 
 ## Building Your Own Clacktronics Eurorack Speaker Module
 
-To enhance the Clacktronics Eurorack Speaker Module, I added a copper layer to stiffen the panel and improve its durability. Additionally, I have prepared the necessary gerber files that can be sent to a PCB manufacturer like JLCPCB to produce your own high-quality PCBs. These files are conveniently available on my GitHub repository [Azerty-Labs/Eurorack-Speaker](). For reference to the original GitHub, please click here [Original GitHub](https://github.com/clacktronics/EuroClack_Speaker).
+To enhance the Clacktronics Eurorack Speaker Module, I added a copper layer to stiffen the panel and improve its durability. Additionally, I have prepared the necessary gerber files that can be sent to a PCB manufacturer like JLCPCB to produce your own high-quality PCBs. These files are conveniently available on my GitHub repository [Azerty-Labs/Eurorack-Speaker](https://github.com/azerty-labs/Eurorack-Speaker). For reference to the original GitHub, please click here [Original GitHub](https://github.com/clacktronics/EuroClack_Speaker).
 
 Once you have your PCB, you'll need to gather the necessary components. Here's what you'll need:
 
